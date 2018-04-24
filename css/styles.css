@@ -48,7 +48,7 @@ body
 {
 	width: 1200px;
 	height: 100px;
-	background-color: #F0FFFF;
+	background-color: #FFFFFF;
 	
 	
 }
@@ -83,7 +83,7 @@ body
 	font-size:15px;
 	text-align:left;
 	text-decoration:none;
-	color: #999966;
+	color: #2F4F4F;
 	padding: 23px;
 	
 }
@@ -147,7 +147,7 @@ body
 {
 	float:left;
 	width:820px;
-	margin-top: 10px;
+	margin-top: 5px;
 	background-color: #F0FFFF;
 }
 #content_image
@@ -203,7 +203,7 @@ body
 {
 	float:right;
 	width:310px;
-	margin-top: 10px;
+	margin-top: 5px;
 	margin-left: 10px;
 }
 #side_image
@@ -219,7 +219,7 @@ body
 	margin-left: 5px;
 	width:300px;
 	margin-top: 10px;
-	background-color: #FFF8DC;
+	background-color: #FEFEFE;
 }
 #status_bar a
 {
@@ -270,7 +270,7 @@ body
 	float: left;
 	margin-left: 5px;
 	width:300px;
-	background-color: #FFF8DC;
+	background-color: #FEFEFE;
 	margin-top: 10px;
 	color: black;
 	font-size: 20px;
